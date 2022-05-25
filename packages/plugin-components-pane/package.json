@@ -1,6 +1,6 @@
 {
-  "name": "@alilc/lowcode-plugin-components-pane",
-  "version": "1.0.3",
+  "name": "@lego-test/lowcode-plugin-components-pane",
+  "version": "0.1.0",
   "description": "低代码组件面板",
   "files": [
     "es/",

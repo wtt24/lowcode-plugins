@@ -4,8 +4,10 @@
   padding: 14px;
   align-items: center;
   justify-content: space-between;
-  width: (100 / 3) * 1%;
-  height: 114px;
+  // width: (100 / 3) * 1%;
+  width: 100%;
+  // height: 114px;
+  min-height: 114px;
   flex-grow: 0;
   flex-shrink: 0;
   border-right: 1px solid #eaeaea;
@@ -19,8 +21,9 @@
   }
 
   .icon {
-    width: 56px;
-    height: 56px;
+    // width: 56px;
+    // height: 56px;
+    max-height: 200px;
     margin: 0 1px;
     display: flex;
     justify-content: center;
